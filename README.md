@@ -180,3 +180,4 @@ _Note: `OpenXRRdrMode` does not (yet) support actions (aka controller buttons). 
 Tested with an HTC Vive Pro with `beta - SteamVR Beta Update` on Ubuntu distribution and Meta Quest 2 with `Oculus` on Windows 11.
 
 
+# SIBR-Gaussian-Replay
